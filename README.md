@@ -1,7 +1,8 @@
 # team16
-Resources:
-- Installing Git Large File: https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
-- Lending Club on Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
+Resources: 
+- More in Running Team Meeting Notes: https://docs.google.com/document/d/1gMfQwBY6hvMTbOFRTfE8t83wnF6YwkK2yvfgQmswc1I/edit
+- **Installing Git Large File:** https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
+- **Lending Club on Kaggle**: https://www.kaggle.com/wordsforthewise/lending-club
 - Finance Predictor: https://github.com/DominicRoyStang/finance-predictor
 - Personal Finance Tracker: https://github.com/hamletbarsamyan/personalfinances
 - List of Financial ML Tools: https://github.com/firmai/financial-machine-learning
