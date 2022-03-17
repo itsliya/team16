@@ -14,3 +14,4 @@ Resources:
 - Daily Expenses Mangaer: https://github.com/MasterMedo/daily-expense-manager/blob/master/expenses.csv
 - Predicting and Analyzing Daily Expenses: https://github.com/mksami22/Predicting-and-Analyzing-Daily-Expense/blob/main/expenses.csv
 - Personal Finance on Kaggle: https://www.kaggle.com/bukolafatunde/personal-finance/version/4?select=personal_transactions.csv
+- **Credit Modeling Explained: https://github.com/mourarthur/awesome-credit-modeling**
